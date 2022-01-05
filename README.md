@@ -9,9 +9,9 @@ For my project, I decided to generate three random verses: one from the Old Test
 ## Technologies
 
 - Javascript
-- ![Visual Studio Code](https://code.visualstudio.com/)
-- ![git](https://en.wikipedia.org/wiki/Git) 
-- ![Git Bash](https://gitforwindows.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [git](https://en.wikipedia.org/wiki/Git) 
+- [Git Bash](https://gitforwindows.org/)
 
 ## Sources
 
