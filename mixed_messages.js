@@ -29,4 +29,16 @@ addNT(newNTVerse){
 }}
 
 
+let randomIndexGenerator = (list) => {
+    return Math.floor(Math.random()*list.length)
+}
+
+let otIndex = randomIndexGenerator(versesLists.oldTestamentVerses)
+let ntIndex = randomIndexGenerator(versesLists.newTestamentVerses)
+let psalmIndex = randomIndexGenerator(versesLists.psalmVerses)
+console.log(otIndex)
+console.log(ntIndex)
+console.log(psalmIndex)
+
+
 
