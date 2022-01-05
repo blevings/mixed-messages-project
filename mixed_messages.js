@@ -56,13 +56,9 @@ for (let verseList in versesLists) {
 let otVerse = versesLists.oldTestamentVerses[randomIndexGenerator(versesLists.oldTestamentVerses)]
 let ntVerse = versesLists.newTestamentVerses[randomIndexGenerator(versesLists.newTestamentVerses)]
 let psalmVerse = versesLists.psalmVerses[randomIndexGenerator(versesLists.psalmVerses)]
-// console.log(otVerse)
-// console.log(ntVerse)
-// console.log(psalmVerse)
 
 function printVOD(arr){
     console.log(arr.join('\n'));
 }
 
 printVOD(versesOfTheDay)
-// console.log(versesOfTheDay)
