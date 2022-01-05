@@ -1,10 +1,13 @@
-# Mixed Messages Codecademy Portfolio Project
+# Mixed Messages Codecademy Portfolio Project - Verse of the Day Generator
 
 ## Introduction
 
 The objective of the Codecademy Mixed Messages project is to generate a script that will output a message that includes at least three randomly selected pieces of information.
 
 For my project, I decided to generate three random verses: one from the Old Testament (excluding Psalms), one from Psalms, and one from the New Testament. 
+#### Example Output:
+![example-image](images/mixed-messages-example.png)
+
 
 ## Technologies
 
